@@ -1,0 +1,3 @@
+package com.example.resizescreenapp.navigation
+
+interface NavigationDestination
